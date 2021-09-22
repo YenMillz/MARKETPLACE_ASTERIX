@@ -17,4 +17,20 @@ All APIs are "self-documented" by OpenApi3, using annotations.
 
 Roles: Bivol Gavril - developer, tester, team lead/manager, technical writer, analist, consultant
 
-![image](https://user-images.githubusercontent.com/68549495/134401398-c46969b4-7b3c-4d90-a8af-2272e1e1db2f.png)
+![image](https://user-images.githubusercontent.com/68549495/134401593-f34464e6-5331-4c57-8ccd-89d2ee09817e.png)
+
+## Built With
+
+- [Spring boot](https://spring.io/projects/spring-boot/)
+
+- [Spring security](https://spring.io/projects/spring-security/)
+
+- [PostgreSQL](https://www.postgresql.org/)
+
+- [MyBatis](https://mybatis.org/mybatis-3/)
+
+- [OpenApi 3](https://springdoc.org//)
+
+- [FlyWay](https://flywaydb.org//)
+
+
