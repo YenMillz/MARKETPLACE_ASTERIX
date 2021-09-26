@@ -18,6 +18,8 @@ All APIs are "self-documented" by OpenApi3, using annotations.
 
 Roles: Bivol Gavril - developer, tester, team lead/manager, technical writer, analist, consultant
 
+### Project Architecture
+
 ![image](https://user-images.githubusercontent.com/68549495/134802261-28e328c8-85af-4d2f-852a-9ed1b1006727.png)
 
 ## Built With
