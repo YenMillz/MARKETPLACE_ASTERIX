@@ -1,7 +1,7 @@
 # MARKETPLACE ASTERIX
 REST API for managing products on a marketplace.  A RESTful API created using Spring boot. A Marketplace that allows to register a new user or login with created one and to manage products.
 
-TEAM: Bivol Gavril W-1841
+** Team: ** Bivol Gavril W-1841
 
 WIKI LINK: https://en.wikipedia.org/wiki/Representational_state_transfer
 
