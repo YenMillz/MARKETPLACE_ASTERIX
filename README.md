@@ -3,8 +3,6 @@ REST API for managing products on a marketplace.  A RESTful API created using Sp
 
 **Team:** Bivol Gavril W-1841
 
-**Wiki:** https://en.wikipedia.org/wiki/Representational_state_transfer
-
 ## Getting Started
 
 Marketplace is a simple platform where people
