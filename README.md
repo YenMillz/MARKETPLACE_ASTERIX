@@ -29,6 +29,10 @@ Roles: Bivol Gavril - developer, tester, team lead/manager, technical writer, an
 - [Documenting a Spring REST API using OpenAPI 3.0](https://www.baeldung.com/spring-rest-openapi-documentation)
 - [Database migration with FlyWay](https://www.baeldung.com/database-migrations-with-flyway)
 
+## Milestones
+![image](https://user-images.githubusercontent.com/68549495/136325659-7cd91804-b3e3-452b-a7e6-d17057a6c2b5.png)
+
+
 ## Built With
 
 - [Spring boot](https://spring.io/projects/spring-boot/)
